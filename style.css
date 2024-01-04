@@ -1,0 +1,25 @@
+body {
+    background-color: #F7F7F7;
+    margin: 0;
+}
+
+.content {
+    background-color: #173CE8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.question-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid rgba(0,0,0,0.4);
+    padding-top: 8px;
+}
+
+.maincard {
+    width: 30rem;
+    background-color: #F7F7F7;
+}
