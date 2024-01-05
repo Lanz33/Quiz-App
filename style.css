@@ -1,6 +1,6 @@
 body {
     background-color: #F7F7F7;
-    margin: 0;
+    margin: 0;;
 }
 
 .content {
@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 100dvh;
 }
 
 .question-footer {
@@ -22,4 +22,9 @@ body {
 .maincard {
     width: 30rem;
     background-color: #F7F7F7;
+}
+
+.quiz-answer-card:hover{
+    background-color: #f7f7f758;
+    cursor: pointer;
 }

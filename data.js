@@ -4,6 +4,7 @@ let questions = [
         "answer_1": "Robie Williams",
         "answer_2": "Lady Gaga",
         "answer_3": "Tim Berners-Lee",
+        "answer_4": "Justin Bieber",
         "rightAnswer": 3
     },
     {
